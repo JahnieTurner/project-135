@@ -1,0 +1,23 @@
+.copy_right_footer {
+    text-align: center;
+    font-size: 20px;
+    background-color: darkcyan;
+    margin-top: 490px;
+    padding: 10px;
+}
+
+.heading {
+    font-size: 25px;
+    border-radius: 15px;
+}
+
+canvas {
+    border: 15px solid black;
+    box-shadow: 5px 5px 5px black;
+    border-radius: 15px;
+    background-color: white;
+}
+
+body {
+    background-size: cover;
+}
