@@ -16,6 +16,7 @@ canvas {
     box-shadow: 5px 5px 5px black;
     border-radius: 15px;
     background-color: white;
+    margin: 35px;
 }
 
 body {
